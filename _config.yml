@@ -24,11 +24,9 @@ exclude:
 - bower_components
 - assets/scss
 plugins:
-- jekyll-paginate-v2
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
-- jekyll/imgix
 markdown: kramdown
 kramdown:
   input: GFM
@@ -47,7 +45,3 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
-pagination:
-  enabled: false
-autopages:
-  enabled: false
