@@ -13,7 +13,6 @@ description: Meet the unknown. Make a connection.
 permalink: pretty
 exclude:
 - bower.json
-- Gemfile
 - Gemfile.lock
 - package.json
 - config.codekit3
