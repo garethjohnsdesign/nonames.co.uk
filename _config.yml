@@ -34,7 +34,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-email: info@nonames.co.uk
+email: host@nonames.co.uk
 subscribe: "https://nonames.us19.list-manage.com/subscribe/post?u=32bb801fc9e3547475be8062b&amp;id=bf35f1f522"
 analytics: UA-131817334-1
 logo: "/assets/img/logo.svg"
