@@ -1,0 +1,53 @@
+---
+title: No Names.
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: false
+  uploads:
+    title: Uploads
+    output: false
+url: https://www.nonames.co.uk
+description: "Meet the unknown. Make a connection."
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+email: info@nonames.co.uk
+subscribe: "https://nonames.us19.list-manage.com/subscribe/post?u=32bb801fc9e3547475be8062b&amp;id=bf35f1f522"
+analytics: UA-131817334-1
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: false
+autopages:
+  enabled: false
