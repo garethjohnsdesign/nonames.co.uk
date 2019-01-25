@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28905",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -6884,13 +6891,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/Gemfile",
-		"oF": 0
-		},
-	"/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/Gemfile.lock",
 		"oF": 0
 		},
 	"/humans.txt": {
