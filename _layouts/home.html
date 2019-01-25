@@ -29,7 +29,7 @@ layout: default
 <div class="grid-x grid-padding-x grid-padding-y">
   <div class="cell text-center">
     <h5 class="sans-bold text-uppercase">Next Event</h5>
-    <h5>{{page.event-start-date | date: '%B %d, %Y'}} — {{page.event-start-date | date: "%l" }} -{{page.event-start-date | date: "%l%p" }}</h5>
+    <h5>{{page.event-start-date | date: '%B %d, %Y'}} — {{page.event-start-date | date: "%l" }} -{{page.event-end-date | date: "%l%p" }}</h5>
     <h5><a href="{{page.event-map}}">{{page.event-address }}</a></h5>
     <a class="button hollow sans-bold text-uppercase margin-top-1" href="{{page.event-link}}">Buy Tickets</a>
   </div>
