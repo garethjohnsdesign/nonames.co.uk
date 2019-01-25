@@ -16,6 +16,13 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -6891,6 +6898,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/Gemfile",
+		"oF": 0
+		},
+	"/Gemfile.lock": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/Gemfile.lock",
 		"oF": 0
 		},
 	"/humans.txt": {
