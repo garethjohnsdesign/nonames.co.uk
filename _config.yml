@@ -1,5 +1,5 @@
 ---
-title: No Names.
+title: No Names
 timezone: UTC
 collections:
   posts:
@@ -10,6 +10,7 @@ collections:
     output: false
 url: https://www.nonames.co.uk
 description: Meet the unknown. Make a connection.
+tagline: When you don’t have a name you’re free to be yourself.
 permalink: pretty
 exclude:
 - bower.json
