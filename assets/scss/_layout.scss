@@ -153,3 +153,12 @@ main {
     @include padding(1,1,1,1);
   }
 }
+
+
+.button {
+border: 1px solid $white;
+}
+
+.button:hover {
+color: get-color(secondary);
+}

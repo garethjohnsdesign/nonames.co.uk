@@ -30,6 +30,13 @@
 		"oAP": "/_config.yml",
 		"oF": 0
 		},
+	"/_includes/reveal/newsletter.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/reveal/newsletter.html",
+		"oF": 0
+		},
 	"/_includes/site/analytics.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -178,11 +185,55 @@
 		"oAP": "/assets/favicons/favicon.ico",
 		"oF": 0
 		},
+	"/assets/favicons/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 1826,
+		"oA": 0,
+		"oAP": "/assets/favicons/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/favicons/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 1685,
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/favicons/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 1929,
+		"oA": 0,
+		"oAP": "/assets/favicons/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/favicons/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 3359,
+		"oA": 0,
+		"oAP": "/assets/favicons/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/favicons/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 1362,
+		"oA": 0,
+		"oAP": "/assets/favicons/mstile-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6914,7 +6965,7 @@
 		"oA": 2,
 		"oAP": "/index.md",
 		"oF": 1,
-		"oFM": 9,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
